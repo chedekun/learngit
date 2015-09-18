@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Prohibit the fast forward. 
+This Lesson IS Over. 20150918 James Che
 
